@@ -2,7 +2,8 @@ import pygame
 import math
 from random import randint
 
-# ---
+
+# Conway's Game of Life
 # View code - shouldn't need to touch!
 
 SCREEN_WIDTH = 800
